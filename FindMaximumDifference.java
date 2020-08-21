@@ -13,5 +13,8 @@ public class FindMaximumDifference {
 		ref=array[array.length-1]-array[0];
 		System.out.println(ref);	
 	}
+	
+	public void newMethod(){
+	}
 
 }
